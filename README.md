@@ -1,3 +1,7 @@
 # 🍪 Python Cookie Clicker (Selenium) 
 This project was a fun way to create a basic tutorial about Selenium for my YouTube channel.
 Project made using pure Python and Selenium
+
+Make sure you find that content on my YouTube channel
+
+[![Youtube Badge](https://camo.githubusercontent.com/667efda90e6b9bc59de36690359e4f5c38c4205e5abf299bfe3f627c61cfb0d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e796f75747562652e636f6d2f6368616e6e656c2f554352684b4b36567249536e4957504a6a597842504b6e412f766964656f73)](https://www.youtube.com/channel/UCtsVf511Jq1nMQ8r0-u84BQ)
